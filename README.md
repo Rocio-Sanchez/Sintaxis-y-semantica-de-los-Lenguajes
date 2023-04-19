@@ -1,1 +1,1 @@
-# Sintaxis-y-sem-ntica-de-los-Lenguajes
+# Sintaxis-y-semantica-de-los-Lenguajes
